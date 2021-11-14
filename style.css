@@ -1,0 +1,15 @@
+img [src] {
+  width: 50px;
+}
+
+p {
+  color: blue;
+  font-size: 20px;
+  font-family: Courier;
+}
+
+h1 {
+  font-size: 50px;
+  font-family: Courier;
+  text-align: center;
+}
